@@ -14,6 +14,7 @@ The script creates a space-delimited data file called "tidyData.txt" in userdefd
 
 # How the script works
 The run_analysis.R script works by performing the following steps:
+
 1. Sets the working directory to the current directory
 2. Reads the test data files (X_test.txt, subject_test.txt, y_test.txt) and appends the latter 2 to the first
 3. Repeats step 2 for the training dataset
