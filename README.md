@@ -27,5 +27,5 @@ The run_analysis.R script works by performing the following steps:
 
 Additional References
 =====================
-*Refer to the README within the zipped raw data file for additional information on how the data was collected
-*Refer to the codebook for additional information on variables 
+* Refer to the README within the zipped raw data file for additional information on how the data was collected
+* Refer to the codebook for additional information on variables 
