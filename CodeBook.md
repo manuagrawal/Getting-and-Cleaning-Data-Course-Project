@@ -14,7 +14,7 @@
  * WALKING_DOWNSTAIRS
  * SITTING
  * STANDING
- * LAYING)
+ * LAYING
 * ALL FOLLOWING VARIABLES: These are either time- or frequency- domain variables computed from raw measurement data.
  * The prefixes 't' and 'f' denote time and frequency domain respectively.
  * The '-X,-Y,-Z' denote measurement direction
