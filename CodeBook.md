@@ -2,8 +2,7 @@
 
 ## Summary
 
-* All values comuputed in the tidyData.txt table are averages from the raw data 
-* Averages have been computed by subject and by activity
+This dataset summarizes various time- and frequency-domain variables computed from raw measurements, by computing averages by subject and activity performed. 
 
 ## Variables
 
@@ -19,5 +18,6 @@
  * The prefixes 't' and 'f' denote time and frequency domain respectively.
  * The '-X,-Y,-Z' denote measurement direction
  * The 'mean()' and 'std()' denote mean and standard deviations, respectively
+ * All values represent averages, which have been computed by each subject and each activity
  * Further details on the measurements and their computation are contained with the README.md file included with the zipped raw data (located at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
