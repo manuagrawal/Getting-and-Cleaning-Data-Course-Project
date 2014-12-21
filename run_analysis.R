@@ -1,8 +1,6 @@
 library(plyr)
 #Set working directory
 setwd("./")
-#Clear variables
-rm(list=ls())
 #Read and merge test data
 testVector <- read.table("./test/X_test.txt")
 testSubjects <- read.table("./test/subject_test.txt")
