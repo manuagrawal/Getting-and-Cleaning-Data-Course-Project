@@ -8,7 +8,13 @@
 ## Variables
 
 * TestSubject : Reference identifier for subject who performed the test
-* Activity : Activity performed (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+* Activity : Activity performed 
+ * WALKING 
+ * WALKING_UPSTAIRS
+ * WALKING_DOWNSTAIRS
+ * SITTING
+ * STANDING
+ * LAYING)
 * ALL FOLLOWING VARIABLES: These are either time- or frequency- domain variables computed from raw measurement data.
  * The prefixes 't' and 'f' denote time and frequency domain respectively.
  * The '-X,-Y,-Z' denote measurement direction
